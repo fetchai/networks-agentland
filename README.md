@@ -20,7 +20,7 @@ To install the wasmd and wasmcli executables, execute the following commands:
 ```bash
 cd ~
 git clone https://github.com/fetchai/cosmos-wasmd
-cd cosmos-wasmd && git checkout tags/v0.2.0
+cd cosmos-wasmd && git checkout tags/v0.1.1
 make install
 ```
 
